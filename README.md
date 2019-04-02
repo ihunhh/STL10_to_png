@@ -2,7 +2,7 @@
 * ***topng.py:***
   * ***Extracting*** images from ***STL10 binary file***
 * ***tobinary.py:***
-  * ***Resizing*** images and pack them back to ***binary file***
+  * Packing them back to ***binary file***
 
 
 
